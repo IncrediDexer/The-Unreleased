@@ -113,7 +113,7 @@ versions.v2 = {
 	folder: "asset-v2/",
 	looptime: 8000,
 	bpm: 120,
-	totalframe: 384,
+	totalframe: 260,
 	nbpolo: 7,
 	bonusloopA: false,
 	bonusendloopA: false,
