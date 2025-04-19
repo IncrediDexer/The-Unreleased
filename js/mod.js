@@ -28,8 +28,6 @@ function onLockedIcon(){
   boxDialog.open('This Icon is locked', 'LOCKED!')
 }
 
-OnDelayIn(500, function)
-
-function onV2Start() {
+OnDelayIn(500, function onV2Start() {
   Shake(40, 8000);
-}
+})
