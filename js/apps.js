@@ -98,7 +98,7 @@ versions.v1 = {
 	}],
 	bonusarray: [{
 		name: "The Last Day",
-		src: "v1-b1-thelastday-hb.mp4",
+		src: "v1-b1-thelastday-hb",
 		code: "4,6,9,11,19",
 		sound: "bonus-thelastday",
 		aspire: "aspire-thelastday",
