@@ -27,8 +27,3 @@ var ModDeveloper = "Developer";
 function onLockedIcon(){
   boxDialog.open('This Icon is locked', 'LOCKED!')
 }
-
-function onV1Bonus1Finished(){ 
-  QuickMessage("Bonus Ended")
-  Shake(10, 500)
-}
